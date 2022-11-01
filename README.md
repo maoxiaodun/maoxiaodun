@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about frontend
 - 📫 How to reach me: 1830728154@qq.com
 - 😄 Pronouns: 刘文静
-- ⚡ Fun fact: lol
+- ⚡ Fun fact: travel && console game
 
 
