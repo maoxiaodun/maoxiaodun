@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with low code && cloud native
 - 💬 Ask me about frontend
 - 📫 How to reach me: 1830728154@qq.com
-- 😄 Pronouns: 刘文静
 - ⚡ Fun fact: travel && console game
 
 
