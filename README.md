@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 1830728154@qq.com
 - ⚡ Fun fact: travel && console game
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
